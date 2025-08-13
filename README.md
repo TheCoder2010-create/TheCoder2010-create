@@ -77,12 +77,12 @@ From building conversational AI that understands human nuance to creating comput
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheCoder2010-create&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoder2010-create&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheCoder2010-create&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=45,0D1117,1a1b27,2d3748"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoder2010-create&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=45,0D1117,1a1b27,2d3748"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCoder2010-create&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCoder2010-create&theme=tokyonight&hide_border=true&background=45,0D1117,1a1b27,2d3748" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -152,7 +152,7 @@ From building conversational AI that understands human nuance to creating comput
 ## 📈 Contribution Activity & Impact
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCoder2010-create&theme=tokyo-night&bg_color=0D1117&color=70a5fd&line=70a5fd&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCoder2010-create&theme=tokyo-night&bg_color=45,0D1117,1a1b27,2d3748&color=70a5fd&line=70a5fd&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ### 🎉 **2024 Achievements**
@@ -162,14 +162,6 @@ From building conversational AI that understands human nuance to creating comput
 - 📚 **15+** technical articles on AI research
 - 🏆 **Multiple** ML models deployed to production
 - 👥 **Active** in AI/ML community discussions
-
----
-
-## 🏆 Recognition & Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheCoder2010-create&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
 
 ---
 
@@ -192,23 +184,6 @@ From building conversational AI that understands human nuance to creating comput
 - 🧠 **Mentoring** aspiring AI engineers and researchers
 - 💡 **Discussing** breakthrough ideas in artificial intelligence
 - 🔬 **Research partnerships** in academic and industry settings
-
-</div>
-
----
-
-## ⚡ Fun AI Facts About Me
-
-<div align="center">
-
-| 🎯 **AI Journey** | 🌟 **Details** |
-|:---:|:---:|
-| ☕ **Coding Fuel** | Coffee + Neural Networks = Magic ✨ |
-| 🕙 **Peak Performance** | 10 PM - 2 AM (When AI models train best!) |
-| 🎵 **Training Soundtrack** | Lo-fi beats while models converge 🎧 |
-| 📚 **Favorite Paper** | "Attention Is All You Need" (Read 100+ times) |
-| 🎯 **2024 Vision** | Build AGI that passes the "Wow" test |
-| 🤖 **AI Philosophy** | "The best AI doesn't replace humans, it amplifies them" |
 
 </div>
 
