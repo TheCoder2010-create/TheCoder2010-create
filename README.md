@@ -155,13 +155,6 @@ From building conversational AI that understands human nuance to creating comput
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCoder2010-create&theme=tokyo-night&bg_color=45,0D1117,1a1b27,2d3748&color=70a5fd&line=70a5fd&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
-### 🎉 **2024 Achievements**
-- 🔥 **500+** commits across AI/ML projects
-- 🌟 **20+** repositories focusing on GenAI and ML
-- 🤝 **50+** contributions to open-source AI projects  
-- 📚 **15+** technical articles on AI research
-- 🏆 **Multiple** ML models deployed to production
-- 👥 **Active** in AI/ML community discussions
 
 ---
 
