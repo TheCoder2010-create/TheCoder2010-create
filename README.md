@@ -17,6 +17,26 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/users/TheCoder2010-create/achievements/pull-shark">
+  <img src="https://github.com/TheCoder2010-create/TheCoder2010-create/assets/achievements/pull-shark-default.png" width="120px" alt="Pull Shark">
+</a>
+<a href="https://github.com/users/TheCoder2010-create/achievements/yolo">
+  <img src="https://github.com/TheCoder2010-create/TheCoder2010-create/assets/achievements/yolo-default.png" width="120px" alt="YOLO">
+</a>
+<a href="https://github.com/users/TheCoder2010-create/achievements/quickdraw">
+  <img src="https://github.com/TheCoder2010-create/TheCoder2010-create/assets/achievements/quickdraw-default.png" width="120px" alt="Quickdraw">
+</a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheCoder2010-create&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 ```python
@@ -123,9 +143,9 @@ class GenAIEngineer:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCoder2010-create&theme=rogue&hide_border=true" alt="Contribution Graph"/>
 </div>
 
-
-
 ---
+
+
 
 ## 🔬 Current Research & Learning
 
