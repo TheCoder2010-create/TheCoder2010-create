@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GenAI%20Engineer%20%7C%20ML%20Specialist&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Building%20Intelligent%20Solutions%20with%20AI&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6&height=200&section=header&text=GenAI%20Engineer%20%7C%20ML%20Specialist&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=✨%20Building%20Intelligent%20Solutions%20with%20AI%20✨&descAlignY=52&descAlign=50)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manavsutar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheCoder2010-create)
@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manavsutar.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sutarmanav557@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheCoder2010-create&color=0077B5&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=TheCoder2010-create&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -57,12 +57,12 @@ class GenAIEngineer:
 <div align="center">
 
 ### Core AI/ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -72,12 +72,12 @@ class GenAIEngineer:
 
 ### NLP & Transformers
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### DevOps & MLOps
@@ -88,7 +88,7 @@ class GenAIEngineer:
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -111,46 +111,32 @@ class GenAIEngineer:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheCoder2010-create&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoder2010-create&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheCoder2010-create&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoder2010-create&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCoder2010-create&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCoder2010-create&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCoder2010-create&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCoder2010-create&theme=rogue&hide_border=true" alt="Contribution Graph"/>
 </div>
+
+
 
 ---
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **LLM Fine-Tuning Suite** | Custom fine-tuned language models for domain-specific tasks with 95%+ accuracy | PyTorch, Transformers, PEFT | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-| **Real-Time CV System** | Production-grade object detection and image segmentation system | OpenCV, TensorFlow, FastAPI | ![Status](https://img.shields.io/badge/Status-Production-blue?style=flat-square) |
-| **AI Content Generator** | Multi-modal generative AI for text, image, and code generation | GPT, Stable Diffusion, LangChain | ![Status](https://img.shields.io/badge/Status-Featured-orange?style=flat-square) |
-| **MLOps Pipeline** | End-to-end ML deployment automation with monitoring | Docker, K8s, MLflow, Jenkins | ![Status](https://img.shields.io/badge/Status-Production-blue?style=flat-square) |
-| **NLP Chatbot Framework** | Advanced conversational AI with context management | Transformers, Rasa, FastAPI | ![Status](https://img.shields.io/badge/Status-Beta-yellow?style=flat-square) |
-| **ML Data Insights** | Automated ML-driven data analysis and visualization | Pandas, Scikit-learn, Plotly | ![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square) |
-
-</div>
-
 
 ## 🔬 Current Research & Learning
 
 <div align="center">
 
-![Transformers](https://img.shields.io/badge/Transformers-Advanced_Architectures-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
-![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-Creative_AI-9C27B0?style=for-the-badge&logo=artstation&logoColor=white)
-![Multi-Modal AI](https://img.shields.io/badge/Multi--Modal_AI-Text_Vision_Audio-00BCD4?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Model Optimization](https://img.shields.io/badge/Model_Optimization-Quantization_&_Edge-4CAF50?style=for-the-badge&logo=nvidia&logoColor=white)
-![Distributed Training](https://img.shields.io/badge/Distributed_Training-Scalability-2196F3?style=for-the-badge&logo=ray&logoColor=white)
-![AI Safety](https://img.shields.io/badge/AI_Safety-Responsible_AI-E91E63?style=for-the-badge&logo=openai&logoColor=white)
+![Transformers](https://img.shields.io/badge/🧠_Transformers-Advanced_Architectures-9370DB?style=for-the-badge)
+![Diffusion Models](https://img.shields.io/badge/🎨_Diffusion_Models-Creative_AI-FF1493?style=for-the-badge)
+![Multi-Modal AI](https://img.shields.io/badge/🌈_Multi--Modal_AI-Text_Vision_Audio-00CED1?style=for-the-badge)
+![Model Optimization](https://img.shields.io/badge/⚡_Model_Optimization-Quantization_&_Edge-32CD32?style=for-the-badge)
+![Distributed Training](https://img.shields.io/badge/🚀_Distributed_Training-Scalability-1E90FF?style=for-the-badge)
+![AI Safety](https://img.shields.io/badge/🛡️_AI_Safety-Responsible_AI-FF6347?style=for-the-badge)
 
 </div>
 
@@ -160,7 +146,7 @@ class GenAIEngineer:
 
 <div align="center">
 
-### Open for Collaboration
+### 🌟 Open for Collaboration
 
 | Service | Description |
 |---------|-------------|
@@ -178,7 +164,7 @@ class GenAIEngineer:
 
 <div align="center">
 
-**Interested in AI innovation, collaboration, or just want to chat about the latest in ML?**
+**✨ Interested in AI innovation, collaboration, or just want to chat about the latest in ML? ✨**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manavsutar)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sutarmanav557@gmail.com)
@@ -201,8 +187,8 @@ class GenAIEngineer:
 
 ---
 
-**"Building intelligent systems that transform ideas into reality"** 🚀
+**✨ "Building intelligent systems that transform ideas into reality" ✨** 🚀
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6&height=120&section=footer)
 
 </div>
