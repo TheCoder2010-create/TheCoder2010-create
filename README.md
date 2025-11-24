@@ -123,43 +123,36 @@ class GenAIEngineer:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCoder2010-create&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph"/>
 </div>
 
+---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **LLM Fine-Tuning Suite** | Custom fine-tuned language models for domain-specific tasks with 95%+ accuracy | PyTorch, Transformers, PEFT | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
+| **Real-Time CV System** | Production-grade object detection and image segmentation system | OpenCV, TensorFlow, FastAPI | ![Status](https://img.shields.io/badge/Status-Production-blue?style=flat-square) |
+| **AI Content Generator** | Multi-modal generative AI for text, image, and code generation | GPT, Stable Diffusion, LangChain | ![Status](https://img.shields.io/badge/Status-Featured-orange?style=flat-square) |
+| **MLOps Pipeline** | End-to-end ML deployment automation with monitoring | Docker, K8s, MLflow, Jenkins | ![Status](https://img.shields.io/badge/Status-Production-blue?style=flat-square) |
+| **NLP Chatbot Framework** | Advanced conversational AI with context management | Transformers, Rasa, FastAPI | ![Status](https://img.shields.io/badge/Status-Beta-yellow?style=flat-square) |
+| **ML Data Insights** | Automated ML-driven data analysis and visualization | Pandas, Scikit-learn, Plotly | ![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square) |
+
+</div>
 
 
 ## 🔬 Current Research & Learning
 
-```mermaid
-mindmap
-  root((AI Research))
-    Advanced Architectures
-      Transformer Optimization
-      Efficient Attention Mechanisms
-      Model Compression
-    Generative AI
-      Diffusion Models
-      Multi-modal Generation
-      Creative AI Applications
-    Computer Vision
-      Object Detection
-      Scene Understanding
-      Real-time Processing
-    MLOps
-      Scalable Infrastructure
-      Model Monitoring
-      Automated Deployment
-    AI Safety
-      Responsible AI
-      Bias Mitigation
-      Ethical Frameworks
-```
+<div align="center">
 
-**Active Learning Areas:**
-- 🏗️ Advanced Transformer Architectures & Efficient Training
-- 🎨 Diffusion Models & Creative AI Applications
-- 🔄 Multi-Modal AI Systems (Text, Vision, Audio)
-- ⚡ Model Quantization & Edge Deployment
-- 🌐 Distributed Training & Scalability
-- 🔐 AI Safety, Ethics & Responsible AI Practices
+![Transformers](https://img.shields.io/badge/Transformers-Advanced_Architectures-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-Creative_AI-9C27B0?style=for-the-badge&logo=artstation&logoColor=white)
+![Multi-Modal AI](https://img.shields.io/badge/Multi--Modal_AI-Text_Vision_Audio-00BCD4?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Model Optimization](https://img.shields.io/badge/Model_Optimization-Quantization_&_Edge-4CAF50?style=for-the-badge&logo=nvidia&logoColor=white)
+![Distributed Training](https://img.shields.io/badge/Distributed_Training-Scalability-2196F3?style=for-the-badge&logo=ray&logoColor=white)
+![AI Safety](https://img.shields.io/badge/AI_Safety-Responsible_AI-E91E63?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
 
 ---
 
@@ -204,7 +197,7 @@ mindmap
 
 ### 📈 Contribution Timeline
 
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+![Metrics](https://metrics.lecoq.io/TheCoder2010-create?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata&config.twemoji=true&config.display=large)
 
 ---
 
