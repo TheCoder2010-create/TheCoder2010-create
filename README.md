@@ -29,14 +29,6 @@ I'm a GenAI Engineer specializing in building scalable AI solutions that drive r
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TheCoder2010-create&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&border_radius=8" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCoder2010-create&theme=default&hide_border=true&border_radius=8" alt="GitHub Streak" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoder2010-create&layout=compact&langs_count=8&theme=default&hide_border=true&border_radius=8" alt="Top Languages" />
 
 </div>
