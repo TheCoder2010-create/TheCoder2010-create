@@ -27,11 +27,6 @@ I'm a GenAI Engineer specializing in building scalable AI solutions that drive r
 - Building scalable MLOps pipelines and infrastructure
 - Implementing real-time computer vision systems
 
-**Key Achievements:**
-- 🎯 Model accuracy improvements: 95%+
-- 🚀 Serving 10,000+ daily requests
-- ⚡ 40% efficiency improvement in ML workflows
-
 ---
 
 ## 📊 GitHub Activity
