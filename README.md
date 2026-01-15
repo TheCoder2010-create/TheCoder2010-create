@@ -33,13 +33,40 @@ I'm a GenAI Engineer specializing in building scalable AI solutions that drive r
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheCoder2010-create&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&border_radius=8)
+<img src="https://github-readme-stats.vercel.app/api?username=TheCoder2010-create&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&border_radius=8" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheCoder2010-create&theme=default&hide_border=true&border_radius=8)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCoder2010-create&theme=default&hide_border=true&border_radius=8" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoder2010-create&layout=compact&langs_count=8&theme=default&hide_border=true&border_radius=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoder2010-create&layout=compact&langs_count=8&theme=default&hide_border=true&border_radius=8" alt="Top Languages" />
 
 </div>
+
+### 📅 Contribution Calendar
+
+<div align="center">
+
+[![Manav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheCoder2010-create&theme=github-compact&hide_border=true&area=true)](https://github.com/TheCoder2010-create)
+
+</div>
+
+<details>
+<summary>📈 More Stats</summary>
+
+<br>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheCoder2010-create&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheCoder2010-create&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheCoder2010-create&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheCoder2010-create&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheCoder2010-create&theme=default)
+
+</div>
+
+</details>
 
 ---
 
